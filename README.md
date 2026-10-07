@@ -32,3 +32,10 @@ Email Me 👉 ✉️ **ryden.crexo@gmail.com** For Collaboration/Project or Anyt
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🐞 Bug Hunting Stats
+
+- 🔎 Bugs/Vulnerabilities Identified: **XX+**
+- 🌐 Web Security Testing: **XX+ Targets**
+- 🛡️ Security Projects: **XX+**
+- 💻 GitHub Projects: **32+**
