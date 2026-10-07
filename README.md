@@ -30,12 +30,13 @@ Email Me 👉 ✉️ **ryden.crexo@gmail.com** For Collaboration/Project or Anyt
 ![](https://streak-stats.demolab.com/?user=rydencrexo-stack&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rydencrexo-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🐞 Bug Hunting Stats
 
-- 🔎 Bugs/Vulnerabilities Identified: **XX+**
-- 🌐 Web Security Testing: **XX+ Targets**
-- 🛡️ Security Projects: **XX+**
+- 🔎 Bugs/Vulnerabilities Identified: **50+**
+- 🌐 Web Security Testing: **30+ Targets**
+- 🛡️ Security Projects: **15+**
 - 💻 GitHub Projects: **32+**
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
