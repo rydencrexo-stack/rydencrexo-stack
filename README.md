@@ -1,5 +1,6 @@
-# 💫 Hi 👋, I'm Atharva A. Deshmukh  
-A passionate Web Developer || Pentester || Full Stack Developer
+# 💫 Hi 👋, I'm Atharva A. Deshmukh
+
+### 🛡️ Cybersecurity Enthusiast | 🔐 Penetration Tester | 🐞 Bug Hunter | 💻 Full Stack Developer
 
 Email Me 👉 ✉️ **ryden.crexo@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
