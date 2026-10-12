@@ -33,7 +33,7 @@ Email Me 👉 ✉️ **ryden.crexo@gmail.com** For Collaboration/Project or Anyt
 ![](https://streak-stats.demolab.com/?user=rydencrexo-stack&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rydencrexo-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-```text
+
 ```text
 ┌──(root㉿kali)-[~]
 └─# whoami
@@ -56,9 +56,10 @@ Motto     : "Build securely. Think critically. Keep learning."
 ┌──(atharva㉿github)-[~/profile]
 └─$ _
 ```
-```
 
-### 🐞 Bug Hunting Stats
+ ---
+ 
+# 🐞 Bug Hunting Stats
 
 - 🔎 Bugs/Vulnerabilities Identified: **50+**
 - 🌐 Web Security Testing: **30+ Targets**
