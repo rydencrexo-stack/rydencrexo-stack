@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **ryden.crexo@gmail.com** For Collaboration/Project or Anyt
 - 👯 **I’m looking to collaborate on:** A Full Stack Chat App
 - 🤔 **I’m looking for help on:** A Full Stack Chat App
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** ryden.crexo@gmail.com
+- 📫 **How to reach me:** ryden.crexo@gmail.com | https://linkedin.com/in/atharvadeshmukh-developer
 - ⚡ **Fun fact:** I Love Tech
 
 ## 🌐 Socials:
