@@ -33,17 +33,16 @@ Email Me 👉 ✉️ **ryden.crexo@gmail.com** For Collaboration/Project or Anyt
 ![](https://streak-stats.demolab.com/?user=rydencrexo-stack&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rydencrexo-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-┌──(atharva㉿github)-[~]
-└─$ whoami
-atharva
+┌──(root㉿kali)-[~]
+└─# whoami
+root
 
 ┌──(atharva㉿github)-[~/profile]
 └─$ cat user.txt
 Name      : Atharva Abhijit Deshmukh
 GitHub    : rydencrexo-stack
-Email     : ryden.crexo@gmail.com
+Role      : Cybersecurity Researcher | Developer
 Portfolio : atharvadeshmukh-dev.space
-Status    : Cybersecurity | Developer
 
 ### 🐞 Bug Hunting Stats
 
