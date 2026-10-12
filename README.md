@@ -40,6 +40,3 @@ Email Me 👉 ✉️ **ryden.crexo@gmail.com** For Collaboration/Project or Anyt
 - 🛡️ Security Projects: **15+**
 - 💻 GitHub Projects: **32+**
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
