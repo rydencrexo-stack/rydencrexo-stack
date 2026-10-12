@@ -34,16 +34,28 @@ Email Me 👉 ✉️ **ryden.crexo@gmail.com** For Collaboration/Project or Anyt
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rydencrexo-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ```text
+```text
 ┌──(root㉿kali)-[~]
 └─# whoami
-root
+atharva
 
 ┌──(atharva㉿github)-[~/profile]
 └─$ cat user.txt
 Name      : Atharva Abhijit Deshmukh
 GitHub    : rydencrexo-stack
-Role      : Cybersecurity Researcher | Developer
+Role      : Cybersecurity Researcher | Full-Stack Developer
+Focus     : Web Security | Pentesting | CTFs | Vulnerability Assessment
+Build     : React | TypeScript | Python | Node.js | FastAPI
+Projects  : Vulnexa | HackQuest | DHRISHTI
 Portfolio : atharvadeshmukh-dev.space
+LinkedIn  : https://linkedin.com/in/atharvadeshmukh-developer
+Email     : ryden.crexo@gmail.com
+Status    : [ONLINE] -- Open to collaborate
+Motto     : "Build securely. Think critically. Keep learning."
+
+┌──(atharva㉿github)-[~/profile]
+└─$ _
+```
 ```
 
 ### 🐞 Bug Hunting Stats
