@@ -33,18 +33,26 @@ Email Me 👉 ✉️ **ryden.crexo@gmail.com** For Collaboration/Project or Anyt
 ![](https://streak-stats.demolab.com/?user=rydencrexo-stack&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rydencrexo-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-┌──(root㉿kali)-[~]
+```text
+root@atharva:~$ whoami
+atharva
 
-└─# whoami
-root
+root@atharva:~$ cat profile.txt
+name       : Atharva Abhijit Deshmukh
+role       : Cybersecurity Researcher & Full-Stack Developer
+focus      : Web security, vulnerability assessment, pentesting, CTFs
+build      : React · TypeScript · Python · Node.js · FastAPI
+cloud      : Vercel · Docker · Linux · Cloudflare
+projects   : Vulnexa · HackQuest · DHRISHTI · Many More
+status     : [ONLINE] -- open to collaborate on security & software projects
+portfolio  : https://atharvadeshmukh-dev.space
+github     : https://github.com/rydencrexo-stack
+linkedin   : https://linkedin.com/in/atharvadeshmukh-developer
+motto      : "Build securely. Think critically. Keep learning."
 
-┌──(atharva㉿github)-[~/profile]
-
-└─$ cat user.txt
-Name      : Atharva Abhijit Deshmukh
-GitHub    : rydencrexo-stack
-Role      : Cybersecurity Researcher | Developer
-Portfolio : atharvadeshmukh-dev.space
+root@atharva:~$ echo "reach me -> ryden.crexo@gmail.com"
+reach me -> ryden.crexo@gmail.com
+```
 
 ### 🐞 Bug Hunting Stats
 
