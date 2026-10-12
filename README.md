@@ -33,19 +33,17 @@ Email Me 👉 ✉️ **ryden.crexo@gmail.com** For Collaboration/Project or Anyt
 ![](https://streak-stats.demolab.com/?user=rydencrexo-stack&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rydencrexo-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Write-Host "┌──(atharva㉿github)-[~]" -ForegroundColor Green
-Write-Host "└─$ whoami" -ForegroundColor Green
-Write-Host "atharva"
-Write-Host ""
-Write-Host "┌──(atharva㉿github)-[~/profile]" -ForegroundColor Green
-Write-Host "└─$ cat user.txt" -ForegroundColor Green
-Write-Host "Name      : Atharva Abhijit Deshmukh"
-Write-Host "GitHub    : rydencrexo-stack"
-Write-Host "Email     : ryden.crexo@gmail.com"
-Write-Host "Portfolio : atharvadeshmukh-dev.space"
-Write-Host "Status    : Cybersecurity | Developer"
+┌──(atharva㉿github)-[~]
+└─$ whoami
+atharva
 
-
+┌──(atharva㉿github)-[~/profile]
+└─$ cat user.txt
+Name      : Atharva Abhijit Deshmukh
+GitHub    : rydencrexo-stack
+Email     : ryden.crexo@gmail.com
+Portfolio : atharvadeshmukh-dev.space
+Status    : Cybersecurity | Developer
 
 ### 🐞 Bug Hunting Stats
 
